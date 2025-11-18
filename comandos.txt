@@ -9,3 +9,4 @@
 9. rm ../../bbdd/consultas.php
 10. mv ../../prog/index.php index2.php
 11. echo "select * from clientes" >> ../../login
+12. rm -r examenGalindo
