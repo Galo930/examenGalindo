@@ -4,3 +4,4 @@
 4. touch prog/index.php
 5. cp ../prog/index.php ../bbdd/
 6. mkdir si/git
+7. cd si/git
