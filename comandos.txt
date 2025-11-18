@@ -2,7 +2,7 @@
 2. cd examenGalindo
 3. mkdir prog si bbdd
 4. touch prog/index.php
-5. cp ../prog/index.php ../bbdd/
+5. cp ../prog/index.php ../bbdd/consultas.php
 6. mkdir si/git
 7. cd si/git
 8. touch ../../login
