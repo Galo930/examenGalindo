@@ -6,3 +6,4 @@
 6. mkdir si/git
 7. cd si/git
 8. touch ../../login
+rm ../../bbdd/consultas.php
