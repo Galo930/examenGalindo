@@ -5,3 +5,4 @@
 5. cp ../prog/index.php ../bbdd/
 6. mkdir si/git
 7. cd si/git
+8. touch ../../login
