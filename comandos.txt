@@ -6,4 +6,5 @@
 6. mkdir si/git
 7. cd si/git
 8. touch ../../login
-rm ../../bbdd/consultas.php
+9. rm ../../bbdd/consultas.php
+10. mv ../../prog/index.php index2.php
