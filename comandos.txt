@@ -3,3 +3,4 @@
 3. mkdir prog si bbdd
 4. touch prog/index.php
 5. cp ../prog/index.php ../bbdd/
+6. mkdir si/git
